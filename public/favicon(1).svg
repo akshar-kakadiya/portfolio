@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" shape-rendering="crispEdges">
+  <!-- Background -->
+  <rect width="48" height="48" rx="6" fill="#0f172a"/>
+
+  <!-- 
+    CONCEPT: AK Monogram + Terminal Chevron Hybrid
+    The "A" left leg and crossbar merge with a "K" right structure.
+    A bold terminal-style ">" chevron anchors identity to dev culture.
+    Works at 16×16 due to thick strokes and extreme negative space contrast.
+  -->
+
+  <!-- Terminal Chevron ">" — left half of canvas -->
+  <!-- Top arm of chevron -->
+  <line x1="10" y1="13" x2="20" y2="24" stroke="#22c55e" stroke-width="4" stroke-linecap="square"/>
+  <!-- Bottom arm of chevron -->
+  <line x1="20" y1="24" x2="10" y2="35" stroke="#22c55e" stroke-width="4" stroke-linecap="square"/>
+
+  <!-- Cursor underscore — right of chevron -->
+  <rect x="24" y="31" width="14" height="4" fill="#22c55e"/>
+</svg>
