@@ -29,7 +29,7 @@ const contactItems = [
     id: 'location',
     label: 'Location',
     value: 'Bangalore, India',
-    href: '#',
+    href: 'https://maps.app.goo.gl/65qir6wkyh6p9A9Q9',
     icon: (
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" width="20" height="20">
         <path d="M21 10c0 7-9 13-9 13S3 17 3 10a9 9 0 0118 0z" />
